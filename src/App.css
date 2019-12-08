@@ -39,7 +39,7 @@ code{
 
 .home{
   background-color: #1d5288;
-  padding: 20px;
+  padding: 10px;
   color: white;
   text-align: center;
   
@@ -49,13 +49,13 @@ code{
 .ico{
   position: absolute;
   left: 8%;
-  top: 30px;
+  top: 50px;
   font-size: 30px;
 }
 .title{
   font-size: 150%;
   position: relative;
-  top: 20px;
+  top: 37px;
 }
 
 .body{
@@ -80,7 +80,40 @@ code{
 .logo{
  
   position: absolute;
-  left: 3%;
-  top: 20px;
+  left: 5%;
+  top: 48px;
   color: #ffffff;
+  width: 35px;
+}
+.search{
+  position: relative;
+  bottom: 45px;
+  left: 35%;
+  width: 15%;
+}
+
+.fourup{
+  position: relative;
+  left: 25%;
+ bottom: 22px;
+
+}
+
+.notif{
+  position: relative;
+  top: 17px;
+  left: 63%;
+  width: 15%;
+}
+
+.mail{
+  position: relative;
+  bottom: 4px;
+  left: 65%;
+  width: 15%;
+}
+.num{
+
+  font-size: 30;
+  font-weight: bold;
 }
